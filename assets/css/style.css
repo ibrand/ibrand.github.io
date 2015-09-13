@@ -140,7 +140,7 @@ nav.main-nav a.cta {
 #wrapper {
   max-width: 700px;
   margin: 0 auto;
-  padding: 40px 40px 100px 40px;
+  padding: 5px 40px 100px 40px;
 }
 
 #wrapper.home {
@@ -580,7 +580,7 @@ h2.month {
   height: 36px;
   width: 36px;
   float: left;
-  border-radius: 50%;
+  border-radius: 0%;
   margin-top: 3px;
   margin-right: 20px;
   box-shadow: 0 0 0 3px #fff, 0 0 0 4px #eee;
