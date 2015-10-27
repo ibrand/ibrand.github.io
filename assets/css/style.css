@@ -148,6 +148,10 @@ nav.main-nav a.cta {
 	padding: 0px 40px 20px 40px;
 }
 
+#wrapper.about {
+	padding-top: 50px;
+}
+
 .home #avatar {
 	float: right;
 	width: 40px;
