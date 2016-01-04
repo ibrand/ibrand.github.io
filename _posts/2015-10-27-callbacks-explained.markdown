@@ -1,7 +1,7 @@
 ---
 title:  "Callbacks Explained"
 description: Why you need them and what they do.
-## date: add a date when publishing
+## date: 2015-10-27
 ---
 ## Introduction
 
